@@ -77,7 +77,8 @@ Thank you for being part of this journey into architecting high-scalable applica
 
 ## Contact
 
-For any questions or assistance, reach out to:
-	•	Name: Ahmad Gohar
-	•	Email: support@agohar.me
-	•	GitHub: [Your GitHub Profile]
+For any questions or assistance, reach out to me:
+
+- Name: Ahmad Gohar
+- Email: support@agohar.me
+- GitHub: https://github.com/ansgohar
